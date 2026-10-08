@@ -1,0 +1,876 @@
+sector,country,relevant,P@5,R@5,NDCG@5
+Agriculture,Albania,1,0.2,1.0,1.0
+Agriculture,Armenia,2,0.4,1.0,1.0
+Agriculture,Azerbaijan,2,0.4,1.0,1.0
+Agriculture,Belize,1,0.2,1.0,1.0
+Agriculture,Bolivia,4,0.8,1.0,1.0
+Agriculture,Brazil,1,0.2,1.0,1.0
+Agriculture,Burkina Faso,2,0.4,1.0,1.0
+Agriculture,Burundi,1,0.2,1.0,1.0
+Agriculture,Cambodia,6,1.0,0.8333333333333334,1.0
+Agriculture,Cameroon,2,0.4,1.0,1.0
+Agriculture,China,1,0.2,1.0,1.0
+Agriculture,Colombia,3,0.6,1.0,1.0
+Agriculture,Costa Rica,3,0.6,1.0,1.0
+Agriculture,Dominican Republic,1,0.2,1.0,1.0
+Agriculture,Ecuador,5,1.0,1.0,1.0
+Agriculture,Egypt,1,0.2,1.0,1.0
+Agriculture,El Salvador,3,0.6,1.0,1.0
+Agriculture,Georgia,1,0.2,1.0,1.0
+Agriculture,Ghana,6,0.8,0.6666666666666666,0.8687949224876582
+Agriculture,Guatemala,3,0.6,1.0,1.0
+Agriculture,Haiti,4,0.6,0.75,0.8318724637288826
+Agriculture,Honduras,4,0.8,1.0,1.0
+Agriculture,India,5,1.0,1.0,1.0
+Agriculture,Indonesia,2,0.4,1.0,0.5437713091520254
+Agriculture,Israel,1,0.2,1.0,1.0
+Agriculture,Jordan,1,0.2,1.0,1.0
+Agriculture,Kenya,8,1.0,0.625,1.0
+Agriculture,Kosovo,1,0.2,1.0,1.0
+Agriculture,Kyrgyzstan,1,0.2,1.0,0.6309297535714575
+Agriculture,Lebanon,3,0.6,1.0,1.0
+Agriculture,Liberia,1,0.2,1.0,1.0
+Agriculture,Madagascar,2,0.4,1.0,1.0
+Agriculture,Malawi,1,0.2,1.0,1.0
+Agriculture,Mali,2,0.4,1.0,1.0
+Agriculture,Mexico,5,0.4,0.4,0.34519134224686937
+Agriculture,Moldova,2,0.4,1.0,1.0
+Agriculture,Mongolia,1,0.2,1.0,1.0
+Agriculture,Mozambique,1,0.2,1.0,1.0
+Agriculture,Myanmar (Burma),1,0.2,1.0,1.0
+Agriculture,Nepal,1,0.2,1.0,1.0
+Agriculture,Nicaragua,7,1.0,0.7142857142857143,1.0
+Agriculture,Nigeria,2,0.4,1.0,1.0
+Agriculture,Pakistan,3,0.6,1.0,1.0
+Agriculture,Palestine,4,0.8,1.0,1.0
+Agriculture,Paraguay,1,0.2,1.0,1.0
+Agriculture,Peru,5,0.8,0.8,0.830419897363192
+Agriculture,Philippines,7,1.0,0.7142857142857143,1.0
+Agriculture,Rwanda,2,0.4,1.0,1.0
+Agriculture,Samoa,1,0.2,1.0,1.0
+Agriculture,Senegal,2,0.4,1.0,1.0
+Agriculture,Sierra Leone,3,0.6,1.0,1.0
+Agriculture,Solomon Islands,1,0.2,1.0,1.0
+Agriculture,South Africa,1,0.2,1.0,0.6309297535714575
+Agriculture,Suriname,1,0.2,1.0,1.0
+Agriculture,Tajikistan,3,0.6,1.0,1.0
+Agriculture,Tanzania,2,0.4,1.0,1.0
+Agriculture,The Democratic Republic of the Congo,2,0.4,1.0,1.0
+Agriculture,Timor-Leste,1,0.2,1.0,1.0
+Agriculture,Togo,1,0.2,1.0,1.0
+Agriculture,Turkey,1,0.2,1.0,1.0
+Agriculture,Uganda,4,0.8,1.0,0.9558295932317544
+Agriculture,Ukraine,1,0.2,1.0,1.0
+Agriculture,United States,2,0.4,1.0,1.0
+Agriculture,Vietnam,4,0.8,1.0,1.0
+Agriculture,Yemen,1,0.2,1.0,1.0
+Agriculture,Zambia,1,0.2,1.0,0.6309297535714575
+Agriculture,Zimbabwe,3,0.6,1.0,1.0
+Arts,Albania,1,0.2,1.0,1.0
+Arts,Armenia,2,0.4,1.0,1.0
+Arts,Azerbaijan,1,0.2,1.0,0.6309297535714575
+Arts,Bolivia,4,0.8,1.0,1.0
+Arts,Brazil,2,0.2,0.5,0.6131471927654584
+Arts,Burkina Faso,2,0.4,1.0,1.0
+Arts,Burundi,1,0.2,1.0,1.0
+Arts,Cambodia,5,0.6,0.6,0.6164336326286644
+Arts,Cameroon,2,0.4,1.0,1.0
+Arts,Colombia,3,0.6,1.0,1.0
+Arts,Costa Rica,3,0.6,1.0,1.0
+Arts,Ecuador,5,1.0,1.0,1.0
+Arts,Egypt,1,0.2,1.0,1.0
+Arts,El Salvador,4,0.6,0.75,0.8318724637288826
+Arts,Georgia,1,0.2,1.0,1.0
+Arts,Ghana,5,0.6,0.6,0.7227265726449519
+Arts,Guatemala,4,0.6,0.75,0.8318724637288826
+Arts,Haiti,3,0.4,0.6666666666666666,0.7653606369886217
+Arts,Honduras,2,0.4,1.0,1.0
+Arts,India,6,1.0,0.8333333333333334,1.0
+Arts,Indonesia,3,0.6,1.0,0.7122630665145961
+Arts,Israel,1,0.2,1.0,1.0
+Arts,Jordan,1,0.2,1.0,1.0
+Arts,Kenya,5,0.6,0.6,0.4468535299918563
+Arts,Kosovo,1,0.2,1.0,1.0
+Arts,Lebanon,3,0.6,1.0,1.0
+Arts,Madagascar,2,0.4,1.0,1.0
+Arts,Malawi,1,0.2,1.0,1.0
+Arts,Mali,1,0.2,1.0,1.0
+Arts,Mexico,4,0.4,0.5,0.3973220069685352
+Arts,Moldova,1,0.2,1.0,1.0
+Arts,Mongolia,1,0.2,1.0,1.0
+Arts,Mozambique,1,0.2,1.0,1.0
+Arts,Myanmar (Burma),1,0.2,1.0,1.0
+Arts,Nepal,1,0.2,1.0,1.0
+Arts,Nicaragua,4,0.6,0.75,0.8048099750039491
+Arts,Pakistan,3,0.6,1.0,1.0
+Arts,Palestine,4,0.8,1.0,1.0
+Arts,Paraguay,1,0.2,1.0,1.0
+Arts,Peru,6,0.8,0.6666666666666666,0.830419897363192
+Arts,Philippines,7,1.0,0.7142857142857143,1.0
+Arts,Rwanda,2,0.4,1.0,1.0
+Arts,Samoa,1,0.2,1.0,1.0
+Arts,Senegal,2,0.4,1.0,1.0
+Arts,Sierra Leone,2,0.4,1.0,1.0
+Arts,Solomon Islands,1,0.2,1.0,1.0
+Arts,South Africa,1,0.2,1.0,0.6309297535714575
+Arts,Tajikistan,3,0.6,1.0,1.0
+Arts,Tanzania,2,0.4,1.0,1.0
+Arts,The Democratic Republic of the Congo,2,0.4,1.0,1.0
+Arts,Timor-Leste,1,0.2,1.0,1.0
+Arts,Togo,1,0.2,1.0,1.0
+Arts,Turkey,1,0.2,1.0,1.0
+Arts,Uganda,4,0.8,1.0,0.9558295932317544
+Arts,United States,2,0.4,1.0,1.0
+Arts,Vietnam,2,0.4,1.0,0.5706417189553201
+Arts,Yemen,1,0.2,1.0,1.0
+Arts,Zimbabwe,2,0.4,1.0,1.0
+Clothing,Albania,1,0.2,1.0,1.0
+Clothing,Armenia,2,0.4,1.0,1.0
+Clothing,Azerbaijan,2,0.4,1.0,1.0
+Clothing,Bolivia,4,0.8,1.0,1.0
+Clothing,Brazil,1,0.2,1.0,1.0
+Clothing,Burkina Faso,2,0.4,1.0,1.0
+Clothing,Burundi,1,0.2,1.0,1.0
+Clothing,Cambodia,5,0.8,0.8,0.830419897363192
+Clothing,Cameroon,2,0.4,1.0,1.0
+Clothing,China,1,0.2,1.0,1.0
+Clothing,Colombia,3,0.6,1.0,1.0
+Clothing,Costa Rica,3,0.6,1.0,1.0
+Clothing,Dominican Republic,1,0.2,1.0,1.0
+Clothing,Ecuador,5,1.0,1.0,1.0
+Clothing,Egypt,1,0.2,1.0,1.0
+Clothing,El Salvador,3,0.6,1.0,1.0
+Clothing,Georgia,1,0.2,1.0,1.0
+Clothing,Ghana,6,0.8,0.6666666666666666,0.8687949224876582
+Clothing,Guatemala,3,0.6,1.0,1.0
+Clothing,Haiti,3,0.4,0.6666666666666666,0.7653606369886217
+Clothing,Honduras,2,0.4,1.0,1.0
+Clothing,India,5,1.0,1.0,1.0
+Clothing,Indonesia,2,0.4,1.0,0.5437713091520254
+Clothing,Israel,1,0.2,1.0,1.0
+Clothing,Jordan,1,0.2,1.0,1.0
+Clothing,Kenya,5,0.6,0.6,0.4468535299918563
+Clothing,Kosovo,1,0.2,1.0,1.0
+Clothing,Kyrgyzstan,1,0.2,1.0,0.6309297535714575
+Clothing,Lebanon,3,0.6,1.0,1.0
+Clothing,Liberia,1,0.2,1.0,1.0
+Clothing,Madagascar,2,0.4,1.0,1.0
+Clothing,Malawi,1,0.2,1.0,1.0
+Clothing,Mali,1,0.2,1.0,1.0
+Clothing,Mexico,4,0.4,0.5,0.3973220069685352
+Clothing,Moldova,1,0.2,1.0,1.0
+Clothing,Mongolia,1,0.2,1.0,1.0
+Clothing,Mozambique,1,0.2,1.0,1.0
+Clothing,Myanmar (Burma),1,0.2,1.0,1.0
+Clothing,Nepal,1,0.2,1.0,1.0
+Clothing,Nicaragua,4,0.8,1.0,0.9558295932317544
+Clothing,Pakistan,3,0.6,1.0,1.0
+Clothing,Palestine,4,0.8,1.0,1.0
+Clothing,Paraguay,1,0.2,1.0,1.0
+Clothing,Peru,6,0.8,0.6666666666666666,0.830419897363192
+Clothing,Philippines,7,1.0,0.7142857142857143,1.0
+Clothing,Rwanda,2,0.4,1.0,1.0
+Clothing,Samoa,1,0.2,1.0,1.0
+Clothing,Senegal,2,0.4,1.0,1.0
+Clothing,Sierra Leone,3,0.6,1.0,1.0
+Clothing,Solomon Islands,1,0.2,1.0,1.0
+Clothing,South Africa,1,0.2,1.0,0.6309297535714575
+Clothing,Tajikistan,3,0.6,1.0,1.0
+Clothing,Tanzania,2,0.4,1.0,1.0
+Clothing,The Democratic Republic of the Congo,2,0.4,1.0,1.0
+Clothing,Timor-Leste,1,0.2,1.0,1.0
+Clothing,Togo,1,0.2,1.0,1.0
+Clothing,Turkey,1,0.2,1.0,1.0
+Clothing,Uganda,4,0.8,1.0,0.9558295932317544
+Clothing,Ukraine,1,0.2,1.0,1.0
+Clothing,United States,2,0.4,1.0,1.0
+Clothing,Vietnam,2,0.4,1.0,0.5706417189553201
+Clothing,Yemen,1,0.2,1.0,1.0
+Clothing,Zimbabwe,3,0.6,1.0,1.0
+Construction,Albania,1,0.2,1.0,1.0
+Construction,Armenia,2,0.4,1.0,1.0
+Construction,Azerbaijan,2,0.4,1.0,1.0
+Construction,Bolivia,4,0.8,1.0,1.0
+Construction,Brazil,1,0.2,1.0,1.0
+Construction,Burkina Faso,2,0.4,1.0,1.0
+Construction,Burundi,1,0.2,1.0,1.0
+Construction,Cambodia,5,0.8,0.8,0.830419897363192
+Construction,Cameroon,2,0.4,1.0,1.0
+Construction,China,1,0.2,1.0,1.0
+Construction,Colombia,3,0.6,1.0,1.0
+Construction,Costa Rica,3,0.6,1.0,1.0
+Construction,Dominican Republic,1,0.2,1.0,1.0
+Construction,Ecuador,5,1.0,1.0,1.0
+Construction,Egypt,1,0.2,1.0,1.0
+Construction,El Salvador,3,0.6,1.0,1.0
+Construction,Georgia,1,0.2,1.0,1.0
+Construction,Ghana,4,0.6,0.75,0.8048099750039491
+Construction,Guatemala,3,0.6,1.0,1.0
+Construction,Haiti,2,0.4,1.0,1.0
+Construction,Honduras,2,0.4,1.0,1.0
+Construction,India,4,0.8,1.0,0.9828920819566879
+Construction,Indonesia,3,0.6,1.0,0.8854598815714874
+Construction,Jordan,1,0.2,1.0,1.0
+Construction,Kenya,6,0.8,0.6666666666666666,0.6608397947263839
+Construction,Kosovo,1,0.2,1.0,1.0
+Construction,Kyrgyzstan,1,0.2,1.0,0.6309297535714575
+Construction,Lebanon,3,0.6,1.0,1.0
+Construction,Liberia,1,0.2,1.0,1.0
+Construction,Madagascar,2,0.4,1.0,1.0
+Construction,Malawi,1,0.2,1.0,1.0
+Construction,Mali,1,0.2,1.0,1.0
+Construction,Mexico,5,0.8,0.8,0.6608397947263839
+Construction,Moldova,2,0.4,1.0,1.0
+Construction,Mongolia,1,0.2,1.0,1.0
+Construction,Mozambique,1,0.2,1.0,1.0
+Construction,Myanmar (Burma),1,0.2,1.0,1.0
+Construction,Nepal,1,0.2,1.0,1.0
+Construction,Nicaragua,4,0.8,1.0,0.9558295932317544
+Construction,Nigeria,1,0.2,1.0,0.6309297535714575
+Construction,Pakistan,3,0.6,1.0,1.0
+Construction,Palestine,4,0.8,1.0,1.0
+Construction,Paraguay,1,0.2,1.0,1.0
+Construction,Peru,4,0.8,1.0,0.9558295932317544
+Construction,Philippines,7,1.0,0.7142857142857143,1.0
+Construction,Rwanda,2,0.4,1.0,1.0
+Construction,Samoa,1,0.2,1.0,1.0
+Construction,Senegal,1,0.2,1.0,0.6309297535714575
+Construction,Sierra Leone,3,0.6,1.0,1.0
+Construction,Solomon Islands,1,0.2,1.0,1.0
+Construction,South Africa,1,0.2,1.0,0.6309297535714575
+Construction,Tajikistan,3,0.6,1.0,1.0
+Construction,Tanzania,2,0.4,1.0,1.0
+Construction,The Democratic Republic of the Congo,2,0.4,1.0,1.0
+Construction,Timor-Leste,1,0.2,1.0,1.0
+Construction,Togo,1,0.2,1.0,1.0
+Construction,Uganda,4,0.8,1.0,0.9558295932317544
+Construction,Ukraine,1,0.2,1.0,1.0
+Construction,United States,2,0.4,1.0,1.0
+Construction,Vietnam,2,0.4,1.0,0.5706417189553201
+Construction,Yemen,1,0.2,1.0,1.0
+Construction,Zimbabwe,2,0.4,1.0,0.9197207891481876
+Education,Albania,1,0.2,1.0,1.0
+Education,Armenia,2,0.4,1.0,1.0
+Education,Azerbaijan,2,0.4,1.0,1.0
+Education,Bolivia,2,0.4,1.0,0.6934264036172708
+Education,Cambodia,5,0.6,0.6,0.6992148198508501
+Education,China,1,0.2,1.0,1.0
+Education,Colombia,2,0.4,1.0,1.0
+Education,Costa Rica,3,0.6,1.0,1.0
+Education,Dominican Republic,1,0.2,1.0,1.0
+Education,Ecuador,3,0.6,1.0,0.7328286204777911
+Education,El Salvador,2,0.4,1.0,0.9197207891481876
+Education,Georgia,1,0.2,1.0,1.0
+Education,Ghana,4,0.6,0.75,0.8318724637288826
+Education,Guatemala,1,0.2,1.0,1.0
+Education,Haiti,1,0.2,1.0,0.6309297535714575
+Education,India,5,1.0,1.0,1.0
+Education,Indonesia,2,0.4,1.0,0.8503449055347546
+Education,Israel,1,0.2,1.0,1.0
+Education,Jordan,1,0.2,1.0,1.0
+Education,Kenya,8,0.8,0.5,0.6608397947263839
+Education,Kosovo,1,0.2,1.0,1.0
+Education,Kyrgyzstan,2,0.4,1.0,1.0
+Education,Lebanon,3,0.6,1.0,1.0
+Education,Malawi,1,0.2,1.0,1.0
+Education,Mexico,3,0.4,0.6666666666666666,0.4776237035032179
+Education,Moldova,1,0.2,1.0,1.0
+Education,Mongolia,1,0.2,1.0,1.0
+Education,Mozambique,1,0.2,1.0,1.0
+Education,Myanmar (Burma),1,0.2,1.0,1.0
+Education,Nicaragua,3,0.6,1.0,0.8529278650606567
+Education,Nigeria,1,0.2,1.0,1.0
+Education,Pakistan,3,0.6,1.0,1.0
+Education,Palestine,2,0.4,1.0,1.0
+Education,Paraguay,1,0.2,1.0,1.0
+Education,Peru,5,1.0,1.0,1.0
+Education,Philippines,7,1.0,0.7142857142857143,1.0
+Education,Rwanda,2,0.4,1.0,1.0
+Education,Samoa,1,0.2,1.0,1.0
+Education,Senegal,2,0.4,1.0,1.0
+Education,Sierra Leone,3,0.6,1.0,1.0
+Education,South Africa,2,0.4,1.0,1.0
+Education,Tajikistan,3,0.6,1.0,1.0
+Education,Tanzania,1,0.2,1.0,0.6309297535714575
+Education,The Democratic Republic of the Congo,2,0.4,1.0,1.0
+Education,Timor-Leste,1,0.2,1.0,1.0
+Education,Turkey,1,0.2,1.0,1.0
+Education,Uganda,4,0.8,1.0,1.0
+Education,United States,2,0.4,1.0,1.0
+Education,Vietnam,2,0.4,1.0,0.9197207891481876
+Education,Yemen,1,0.2,1.0,1.0
+Education,Zimbabwe,2,0.4,1.0,0.6934264036172708
+Entertainment,Albania,1,0.2,1.0,1.0
+Entertainment,Armenia,2,0.4,1.0,1.0
+Entertainment,Bolivia,3,0.6,1.0,1.0
+Entertainment,Cambodia,3,0.4,0.6666666666666666,0.6508205185601091
+Entertainment,Cameroon,1,0.2,1.0,1.0
+Entertainment,China,1,0.2,1.0,1.0
+Entertainment,Colombia,2,0.4,1.0,1.0
+Entertainment,Costa Rica,1,0.2,1.0,1.0
+Entertainment,Ecuador,4,0.8,1.0,0.9558295932317544
+Entertainment,Egypt,1,0.2,1.0,1.0
+Entertainment,El Salvador,3,0.6,1.0,1.0
+Entertainment,Georgia,1,0.2,1.0,1.0
+Entertainment,Ghana,1,0.0,0.0,0.0
+Entertainment,Guatemala,2,0.4,1.0,0.6934264036172708
+Entertainment,India,2,0.4,1.0,0.6934264036172708
+Entertainment,Indonesia,1,0.2,1.0,0.38685280723454163
+Entertainment,Israel,1,0.2,1.0,1.0
+Entertainment,Jordan,1,0.2,1.0,1.0
+Entertainment,Kenya,3,0.4,0.6666666666666666,0.4367467095119258
+Entertainment,Kosovo,1,0.2,1.0,1.0
+Entertainment,Lebanon,2,0.4,1.0,1.0
+Entertainment,Liberia,1,0.2,1.0,1.0
+Entertainment,Madagascar,2,0.4,1.0,1.0
+Entertainment,Mexico,3,0.4,0.6666666666666666,0.4776237035032179
+Entertainment,Moldova,1,0.2,1.0,1.0
+Entertainment,Nepal,1,0.2,1.0,1.0
+Entertainment,Nicaragua,4,0.8,1.0,0.9558295932317544
+Entertainment,Pakistan,3,0.6,1.0,1.0
+Entertainment,Palestine,4,0.8,1.0,1.0
+Entertainment,Paraguay,1,0.2,1.0,1.0
+Entertainment,Peru,4,0.8,1.0,0.9558295932317544
+Entertainment,Philippines,7,1.0,0.7142857142857143,1.0
+Entertainment,Rwanda,2,0.4,1.0,1.0
+Entertainment,Samoa,1,0.2,1.0,1.0
+Entertainment,Sierra Leone,1,0.2,1.0,1.0
+Entertainment,Tajikistan,3,0.6,1.0,1.0
+Entertainment,Tanzania,1,0.2,1.0,1.0
+Entertainment,Timor-Leste,1,0.2,1.0,1.0
+Entertainment,Uganda,2,0.4,1.0,1.0
+Entertainment,United States,2,0.4,1.0,1.0
+Entertainment,Vietnam,1,0.2,1.0,0.5
+Food,Albania,1,0.2,1.0,1.0
+Food,Armenia,2,0.4,1.0,1.0
+Food,Azerbaijan,2,0.4,1.0,1.0
+Food,Bolivia,4,0.8,1.0,1.0
+Food,Brazil,1,0.2,1.0,1.0
+Food,Burkina Faso,2,0.4,1.0,1.0
+Food,Burundi,1,0.2,1.0,1.0
+Food,Cambodia,6,0.8,0.6666666666666666,0.830419897363192
+Food,Cameroon,2,0.4,1.0,1.0
+Food,China,1,0.2,1.0,1.0
+Food,Colombia,3,0.6,1.0,1.0
+Food,Costa Rica,3,0.6,1.0,1.0
+Food,Dominican Republic,1,0.2,1.0,1.0
+Food,Ecuador,5,1.0,1.0,1.0
+Food,Egypt,1,0.2,1.0,1.0
+Food,El Salvador,3,0.6,1.0,1.0
+Food,Georgia,1,0.2,1.0,1.0
+Food,Ghana,6,0.8,0.6666666666666666,0.8687949224876582
+Food,Guatemala,3,0.6,1.0,1.0
+Food,Haiti,4,0.6,0.75,0.8318724637288826
+Food,Honduras,4,0.6,0.75,0.8048099750039491
+Food,India,5,1.0,1.0,1.0
+Food,Indonesia,2,0.4,1.0,0.5437713091520254
+Food,Israel,1,0.2,1.0,1.0
+Food,Jordan,1,0.2,1.0,1.0
+Food,Kenya,6,0.8,0.6666666666666666,0.6608397947263839
+Food,Kosovo,1,0.2,1.0,1.0
+Food,Kyrgyzstan,1,0.2,1.0,0.6309297535714575
+Food,Lebanon,3,0.6,1.0,1.0
+Food,Liberia,1,0.2,1.0,1.0
+Food,Madagascar,2,0.4,1.0,1.0
+Food,Malawi,1,0.2,1.0,1.0
+Food,Mali,1,0.2,1.0,1.0
+Food,Mexico,4,0.4,0.5,0.3973220069685352
+Food,Moldova,2,0.4,1.0,1.0
+Food,Mongolia,1,0.2,1.0,1.0
+Food,Mozambique,1,0.2,1.0,1.0
+Food,Myanmar (Burma),1,0.2,1.0,1.0
+Food,Nepal,1,0.2,1.0,1.0
+Food,Nicaragua,5,1.0,1.0,1.0
+Food,Nigeria,2,0.4,1.0,1.0
+Food,Pakistan,3,0.6,1.0,1.0
+Food,Palestine,4,0.8,1.0,1.0
+Food,Paraguay,1,0.2,1.0,1.0
+Food,Peru,5,0.8,0.8,0.830419897363192
+Food,Philippines,7,1.0,0.7142857142857143,1.0
+Food,Rwanda,2,0.4,1.0,1.0
+Food,Samoa,1,0.2,1.0,1.0
+Food,Senegal,2,0.4,1.0,1.0
+Food,Sierra Leone,3,0.6,1.0,1.0
+Food,Solomon Islands,1,0.2,1.0,1.0
+Food,South Africa,1,0.2,1.0,0.6309297535714575
+Food,Suriname,1,0.2,1.0,1.0
+Food,Tajikistan,3,0.6,1.0,1.0
+Food,Tanzania,2,0.4,1.0,1.0
+Food,The Democratic Republic of the Congo,2,0.4,1.0,1.0
+Food,Timor-Leste,1,0.2,1.0,1.0
+Food,Togo,1,0.2,1.0,1.0
+Food,Turkey,1,0.2,1.0,1.0
+Food,Uganda,4,0.8,1.0,0.9558295932317544
+Food,Ukraine,1,0.2,1.0,1.0
+Food,United States,2,0.4,1.0,1.0
+Food,Vietnam,4,0.8,1.0,1.0
+Food,Yemen,1,0.2,1.0,1.0
+Food,Zambia,2,0.4,1.0,1.0
+Food,Zimbabwe,3,0.6,1.0,1.0
+Health,Albania,1,0.2,1.0,1.0
+Health,Armenia,2,0.4,1.0,1.0
+Health,Azerbaijan,2,0.4,1.0,1.0
+Health,Bolivia,4,0.8,1.0,1.0
+Health,Brazil,1,0.0,0.0,0.0
+Health,Burkina Faso,2,0.4,1.0,1.0
+Health,Burundi,1,0.2,1.0,1.0
+Health,Cambodia,6,1.0,0.8333333333333334,1.0
+Health,Cameroon,2,0.4,1.0,1.0
+Health,China,1,0.2,1.0,1.0
+Health,Colombia,3,0.6,1.0,1.0
+Health,Costa Rica,2,0.4,1.0,0.9197207891481876
+Health,Ecuador,4,0.8,1.0,0.9828920819566879
+Health,Egypt,1,0.2,1.0,1.0
+Health,El Salvador,3,0.6,1.0,1.0
+Health,Georgia,1,0.2,1.0,1.0
+Health,Ghana,3,0.6,1.0,0.9674679834891693
+Health,Guatemala,3,0.6,1.0,1.0
+Health,Haiti,3,0.4,0.6666666666666666,0.7653606369886217
+Health,Honduras,2,0.4,1.0,1.0
+Health,India,4,0.8,1.0,0.9558295932317544
+Health,Indonesia,3,0.6,1.0,0.8529278650606567
+Health,Israel,1,0.2,1.0,1.0
+Health,Jordan,1,0.2,1.0,1.0
+Health,Kenya,5,0.6,0.6,0.4468535299918563
+Health,Kosovo,1,0.2,1.0,1.0
+Health,Lao People's Democratic Republic,1,0.2,1.0,1.0
+Health,Lebanon,3,0.6,1.0,1.0
+Health,Liberia,1,0.2,1.0,1.0
+Health,Madagascar,2,0.4,1.0,1.0
+Health,Mali,1,0.2,1.0,1.0
+Health,Mexico,5,0.8,0.8,0.8539316501572937
+Health,Moldova,1,0.2,1.0,1.0
+Health,Mongolia,1,0.2,1.0,1.0
+Health,Mozambique,1,0.2,1.0,1.0
+Health,Myanmar (Burma),1,0.2,1.0,1.0
+Health,Nepal,1,0.2,1.0,1.0
+Health,Nicaragua,4,0.8,1.0,0.9558295932317544
+Health,Pakistan,3,0.6,1.0,1.0
+Health,Palestine,3,0.6,1.0,0.9674679834891693
+Health,Paraguay,1,0.2,1.0,1.0
+Health,Peru,5,0.8,0.8,0.830419897363192
+Health,Philippines,7,1.0,0.7142857142857143,1.0
+Health,Rwanda,1,0.2,1.0,1.0
+Health,Senegal,1,0.2,1.0,0.6309297535714575
+Health,Sierra Leone,3,0.6,1.0,1.0
+Health,South Africa,1,0.2,1.0,0.6309297535714575
+Health,Tajikistan,3,0.6,1.0,1.0
+Health,Tanzania,2,0.4,1.0,1.0
+Health,The Democratic Republic of the Congo,2,0.4,1.0,1.0
+Health,Timor-Leste,1,0.2,1.0,1.0
+Health,Togo,1,0.2,1.0,1.0
+Health,Turkey,1,0.2,1.0,1.0
+Health,Uganda,5,1.0,1.0,1.0
+Health,Ukraine,1,0.2,1.0,1.0
+Health,United States,2,0.4,1.0,1.0
+Health,Vietnam,3,0.6,1.0,0.9060254355346823
+Health,Yemen,1,0.2,1.0,1.0
+Health,Zimbabwe,1,0.2,1.0,1.0
+Housing,Albania,1,0.2,1.0,1.0
+Housing,Armenia,2,0.4,1.0,1.0
+Housing,Azerbaijan,2,0.4,1.0,1.0
+Housing,Bolivia,3,0.6,1.0,0.7328286204777911
+Housing,Cambodia,6,1.0,0.8333333333333334,1.0
+Housing,China,1,0.2,1.0,1.0
+Housing,Colombia,2,0.4,1.0,1.0
+Housing,Costa Rica,2,0.4,1.0,1.0
+Housing,Dominican Republic,1,0.2,1.0,1.0
+Housing,Ecuador,4,0.8,1.0,0.7606395682357036
+Housing,El Salvador,3,0.6,1.0,1.0
+Housing,Georgia,1,0.2,1.0,1.0
+Housing,Ghana,3,0.6,1.0,0.9674679834891693
+Housing,Guatemala,2,0.4,1.0,1.0
+Housing,Honduras,2,0.4,1.0,1.0
+Housing,India,3,0.6,1.0,0.9060254355346823
+Housing,Indonesia,2,0.4,1.0,0.8503449055347546
+Housing,Kenya,6,0.8,0.6666666666666666,0.6608397947263839
+Housing,Kosovo,1,0.2,1.0,1.0
+Housing,Kyrgyzstan,1,0.2,1.0,0.6309297535714575
+Housing,Lao People's Democratic Republic,1,0.2,1.0,1.0
+Housing,Lebanon,3,0.6,1.0,1.0
+Housing,Madagascar,1,0.2,1.0,0.6309297535714575
+Housing,Malawi,1,0.2,1.0,1.0
+Housing,Mexico,5,0.6,0.6,0.4468535299918563
+Housing,Moldova,1,0.2,1.0,0.6309297535714575
+Housing,Mongolia,1,0.2,1.0,1.0
+Housing,Mozambique,1,0.2,1.0,1.0
+Housing,Myanmar (Burma),1,0.2,1.0,1.0
+Housing,Nicaragua,4,0.8,1.0,0.9558295932317544
+Housing,Pakistan,1,0.2,1.0,1.0
+Housing,Palestine,3,0.6,1.0,1.0
+Housing,Paraguay,1,0.2,1.0,1.0
+Housing,Peru,4,0.8,1.0,0.9558295932317544
+Housing,Philippines,6,1.0,0.8333333333333334,1.0
+Housing,Rwanda,1,0.2,1.0,1.0
+Housing,Samoa,1,0.2,1.0,1.0
+Housing,Senegal,1,0.2,1.0,0.6309297535714575
+Housing,Sierra Leone,2,0.4,1.0,0.9197207891481876
+Housing,Solomon Islands,1,0.2,1.0,1.0
+Housing,South Africa,1,0.2,1.0,0.6309297535714575
+Housing,Suriname,1,0.2,1.0,1.0
+Housing,Tajikistan,3,0.6,1.0,1.0
+Housing,Tanzania,1,0.2,1.0,1.0
+Housing,The Democratic Republic of the Congo,1,0.2,1.0,1.0
+Housing,Timor-Leste,1,0.2,1.0,1.0
+Housing,Turkey,1,0.2,1.0,1.0
+Housing,Uganda,3,0.6,1.0,0.9674679834891693
+Housing,Ukraine,1,0.2,1.0,1.0
+Housing,United States,1,0.2,1.0,1.0
+Housing,Vietnam,4,0.8,1.0,1.0
+Housing,Yemen,1,0.2,1.0,1.0
+Manufacturing,Albania,1,0.2,1.0,1.0
+Manufacturing,Armenia,2,0.4,1.0,1.0
+Manufacturing,Azerbaijan,2,0.4,1.0,1.0
+Manufacturing,Bolivia,4,0.8,1.0,1.0
+Manufacturing,Brazil,1,0.2,1.0,1.0
+Manufacturing,Burkina Faso,2,0.4,1.0,1.0
+Manufacturing,Burundi,1,0.2,1.0,1.0
+Manufacturing,Cambodia,5,0.8,0.8,0.830419897363192
+Manufacturing,Cameroon,2,0.4,1.0,1.0
+Manufacturing,China,1,0.2,1.0,1.0
+Manufacturing,Colombia,3,0.6,1.0,1.0
+Manufacturing,Costa Rica,3,0.6,1.0,1.0
+Manufacturing,Ecuador,5,1.0,1.0,1.0
+Manufacturing,Egypt,1,0.2,1.0,1.0
+Manufacturing,El Salvador,3,0.6,1.0,1.0
+Manufacturing,Georgia,1,0.2,1.0,1.0
+Manufacturing,Ghana,4,0.6,0.75,0.8318724637288826
+Manufacturing,Guatemala,3,0.6,1.0,1.0
+Manufacturing,Haiti,3,0.4,0.6666666666666666,0.7653606369886217
+Manufacturing,Honduras,2,0.4,1.0,1.0
+Manufacturing,India,5,1.0,1.0,1.0
+Manufacturing,Indonesia,1,0.2,1.0,0.38685280723454163
+Manufacturing,Jordan,1,0.2,1.0,1.0
+Manufacturing,Kenya,6,0.8,0.6666666666666666,0.6608397947263839
+Manufacturing,Kosovo,1,0.2,1.0,1.0
+Manufacturing,Kyrgyzstan,1,0.2,1.0,0.6309297535714575
+Manufacturing,Lebanon,3,0.6,1.0,1.0
+Manufacturing,Liberia,1,0.2,1.0,1.0
+Manufacturing,Madagascar,2,0.4,1.0,1.0
+Manufacturing,Malawi,1,0.2,1.0,1.0
+Manufacturing,Mali,1,0.2,1.0,1.0
+Manufacturing,Mexico,3,0.4,0.6666666666666666,0.4776237035032179
+Manufacturing,Moldova,2,0.4,1.0,1.0
+Manufacturing,Mongolia,1,0.2,1.0,1.0
+Manufacturing,Mozambique,1,0.2,1.0,1.0
+Manufacturing,Myanmar (Burma),1,0.2,1.0,1.0
+Manufacturing,Nepal,1,0.2,1.0,1.0
+Manufacturing,Nicaragua,4,0.8,1.0,0.9558295932317544
+Manufacturing,Pakistan,3,0.6,1.0,1.0
+Manufacturing,Palestine,4,0.8,1.0,1.0
+Manufacturing,Paraguay,1,0.2,1.0,1.0
+Manufacturing,Peru,4,0.8,1.0,0.9558295932317544
+Manufacturing,Philippines,7,1.0,0.7142857142857143,1.0
+Manufacturing,Rwanda,2,0.4,1.0,1.0
+Manufacturing,Samoa,1,0.2,1.0,1.0
+Manufacturing,Senegal,2,0.4,1.0,1.0
+Manufacturing,Sierra Leone,3,0.6,1.0,1.0
+Manufacturing,South Africa,1,0.2,1.0,0.6309297535714575
+Manufacturing,Tajikistan,3,0.6,1.0,1.0
+Manufacturing,Tanzania,1,0.2,1.0,1.0
+Manufacturing,The Democratic Republic of the Congo,2,0.4,1.0,1.0
+Manufacturing,Timor-Leste,1,0.2,1.0,1.0
+Manufacturing,Togo,1,0.2,1.0,1.0
+Manufacturing,Turkey,1,0.2,1.0,1.0
+Manufacturing,Uganda,4,0.8,1.0,0.9558295932317544
+Manufacturing,Ukraine,1,0.2,1.0,1.0
+Manufacturing,United States,2,0.4,1.0,1.0
+Manufacturing,Vietnam,2,0.4,1.0,0.5706417189553201
+Manufacturing,Yemen,1,0.2,1.0,1.0
+Manufacturing,Zambia,1,0.2,1.0,0.6309297535714575
+Manufacturing,Zimbabwe,3,0.6,1.0,1.0
+Personal Use,Albania,1,0.2,1.0,1.0
+Personal Use,Armenia,2,0.4,1.0,1.0
+Personal Use,Azerbaijan,2,0.4,1.0,1.0
+Personal Use,Bolivia,3,0.6,1.0,0.7328286204777911
+Personal Use,Burkina Faso,1,0.2,1.0,0.6309297535714575
+Personal Use,Cambodia,6,0.8,0.6666666666666666,0.8687949224876582
+Personal Use,Cameroon,1,0.2,1.0,0.6309297535714575
+Personal Use,China,1,0.2,1.0,1.0
+Personal Use,Colombia,2,0.4,1.0,1.0
+Personal Use,Costa Rica,2,0.4,1.0,1.0
+Personal Use,Ecuador,2,0.4,1.0,0.5706417189553201
+Personal Use,El Salvador,3,0.6,1.0,1.0
+Personal Use,Georgia,1,0.2,1.0,1.0
+Personal Use,Ghana,3,0.6,1.0,0.9674679834891693
+Personal Use,Guatemala,1,0.2,1.0,1.0
+Personal Use,Haiti,1,0.2,1.0,0.5
+Personal Use,Honduras,3,0.4,0.6666666666666666,0.6713860725233041
+Personal Use,India,3,0.6,1.0,0.8529278650606567
+Personal Use,Indonesia,4,0.8,1.0,0.9047172294870751
+Personal Use,Israel,1,0.2,1.0,1.0
+Personal Use,Jordan,1,0.2,1.0,1.0
+Personal Use,Kenya,8,1.0,0.625,1.0
+Personal Use,Kosovo,1,0.2,1.0,1.0
+Personal Use,Kyrgyzstan,1,0.2,1.0,0.6309297535714575
+Personal Use,Lao People's Democratic Republic,1,0.2,1.0,1.0
+Personal Use,Lebanon,3,0.6,1.0,1.0
+Personal Use,Lesotho,1,0.2,1.0,1.0
+Personal Use,Mexico,6,0.6,0.5,0.4912596920895758
+Personal Use,Moldova,1,0.2,1.0,0.6309297535714575
+Personal Use,Mongolia,1,0.2,1.0,1.0
+Personal Use,Mozambique,1,0.2,1.0,1.0
+Personal Use,Myanmar (Burma),1,0.2,1.0,1.0
+Personal Use,Nicaragua,3,0.6,1.0,0.6182885020492784
+Personal Use,Nigeria,1,0.2,1.0,1.0
+Personal Use,Pakistan,2,0.4,1.0,0.9197207891481876
+Personal Use,Palestine,2,0.4,1.0,1.0
+Personal Use,Paraguay,1,0.2,1.0,1.0
+Personal Use,Peru,4,0.8,1.0,0.9558295932317544
+Personal Use,Philippines,6,1.0,0.8333333333333334,1.0
+Personal Use,Rwanda,3,0.6,1.0,0.9674679834891693
+Personal Use,Samoa,1,0.2,1.0,1.0
+Personal Use,Senegal,1,0.2,1.0,0.6309297535714575
+Personal Use,Sierra Leone,2,0.4,1.0,0.9197207891481876
+Personal Use,Solomon Islands,1,0.2,1.0,1.0
+Personal Use,Suriname,1,0.2,1.0,1.0
+Personal Use,Tajikistan,3,0.6,1.0,1.0
+Personal Use,The Democratic Republic of the Congo,1,0.2,1.0,1.0
+Personal Use,Uganda,3,0.6,1.0,1.0
+Personal Use,Ukraine,1,0.2,1.0,1.0
+Personal Use,United States,1,0.2,1.0,1.0
+Personal Use,Vietnam,3,0.6,1.0,0.9060254355346823
+Personal Use,Yemen,1,0.2,1.0,1.0
+Personal Use,Zimbabwe,1,0.2,1.0,1.0
+Retail,Albania,1,0.2,1.0,1.0
+Retail,Armenia,2,0.4,1.0,1.0
+Retail,Azerbaijan,2,0.4,1.0,1.0
+Retail,Bolivia,4,0.8,1.0,1.0
+Retail,Brazil,1,0.2,1.0,1.0
+Retail,Burkina Faso,2,0.4,1.0,1.0
+Retail,Burundi,1,0.2,1.0,1.0
+Retail,Cambodia,7,1.0,0.7142857142857143,1.0
+Retail,Cameroon,2,0.4,1.0,1.0
+Retail,China,1,0.2,1.0,1.0
+Retail,Colombia,3,0.6,1.0,1.0
+Retail,Costa Rica,3,0.6,1.0,1.0
+Retail,Dominican Republic,1,0.2,1.0,1.0
+Retail,Ecuador,5,1.0,1.0,1.0
+Retail,Egypt,1,0.2,1.0,1.0
+Retail,El Salvador,3,0.6,1.0,1.0
+Retail,Georgia,1,0.2,1.0,1.0
+Retail,Ghana,6,0.8,0.6666666666666666,0.8687949224876582
+Retail,Guatemala,3,0.6,1.0,1.0
+Retail,Haiti,4,0.6,0.75,0.8318724637288826
+Retail,Honduras,4,0.6,0.75,0.8048099750039491
+Retail,India,5,1.0,1.0,1.0
+Retail,Indonesia,4,0.6,0.75,0.5143371794949736
+Retail,Israel,1,0.2,1.0,1.0
+Retail,Jordan,1,0.2,1.0,1.0
+Retail,Kenya,6,0.8,0.6666666666666666,0.6608397947263839
+Retail,Kosovo,1,0.2,1.0,1.0
+Retail,Kyrgyzstan,1,0.2,1.0,0.6309297535714575
+Retail,Lao People's Democratic Republic,1,0.2,1.0,1.0
+Retail,Lebanon,3,0.6,1.0,1.0
+Retail,Liberia,1,0.2,1.0,1.0
+Retail,Madagascar,2,0.4,1.0,1.0
+Retail,Malawi,2,0.4,1.0,1.0
+Retail,Mali,1,0.2,1.0,1.0
+Retail,Mexico,3,0.4,0.6666666666666666,0.4776237035032179
+Retail,Moldova,2,0.4,1.0,1.0
+Retail,Mongolia,1,0.2,1.0,1.0
+Retail,Mozambique,1,0.2,1.0,1.0
+Retail,Myanmar (Burma),1,0.2,1.0,1.0
+Retail,Nepal,1,0.2,1.0,1.0
+Retail,Nicaragua,5,1.0,1.0,1.0
+Retail,Nigeria,2,0.4,1.0,1.0
+Retail,Pakistan,3,0.6,1.0,1.0
+Retail,Palestine,4,0.8,1.0,1.0
+Retail,Paraguay,1,0.2,1.0,1.0
+Retail,Peru,6,0.8,0.6666666666666666,0.830419897363192
+Retail,Philippines,7,1.0,0.7142857142857143,1.0
+Retail,Rwanda,3,0.6,1.0,0.9674679834891693
+Retail,Samoa,1,0.2,1.0,1.0
+Retail,Senegal,2,0.4,1.0,1.0
+Retail,Sierra Leone,3,0.6,1.0,1.0
+Retail,Solomon Islands,1,0.2,1.0,1.0
+Retail,South Africa,1,0.2,1.0,0.6309297535714575
+Retail,Suriname,1,0.2,1.0,1.0
+Retail,Tajikistan,3,0.6,1.0,1.0
+Retail,Tanzania,2,0.4,1.0,1.0
+Retail,The Democratic Republic of the Congo,2,0.4,1.0,1.0
+Retail,Timor-Leste,1,0.2,1.0,1.0
+Retail,Togo,1,0.2,1.0,1.0
+Retail,Turkey,1,0.2,1.0,1.0
+Retail,Uganda,4,0.8,1.0,0.9558295932317544
+Retail,Ukraine,1,0.2,1.0,1.0
+Retail,United States,2,0.4,1.0,1.0
+Retail,Vietnam,3,0.6,1.0,0.7328286204777911
+Retail,Yemen,1,0.2,1.0,1.0
+Retail,Zambia,2,0.4,1.0,1.0
+Retail,Zimbabwe,3,0.6,1.0,1.0
+Services,Albania,1,0.2,1.0,1.0
+Services,Armenia,2,0.4,1.0,1.0
+Services,Azerbaijan,2,0.4,1.0,1.0
+Services,Bolivia,4,0.8,1.0,1.0
+Services,Brazil,1,0.2,1.0,1.0
+Services,Burkina Faso,2,0.4,1.0,1.0
+Services,Burundi,1,0.2,1.0,1.0
+Services,Cambodia,5,0.8,0.8,0.830419897363192
+Services,Cameroon,2,0.4,1.0,1.0
+Services,China,1,0.2,1.0,1.0
+Services,Colombia,3,0.6,1.0,1.0
+Services,Costa Rica,3,0.6,1.0,1.0
+Services,Dominican Republic,1,0.2,1.0,1.0
+Services,Ecuador,5,1.0,1.0,1.0
+Services,Egypt,1,0.2,1.0,1.0
+Services,El Salvador,3,0.6,1.0,1.0
+Services,Georgia,1,0.2,1.0,1.0
+Services,Ghana,6,0.8,0.6666666666666666,0.8687949224876582
+Services,Guatemala,3,0.6,1.0,1.0
+Services,Haiti,4,0.6,0.75,0.8318724637288826
+Services,Honduras,3,0.6,1.0,0.9674679834891693
+Services,India,5,1.0,1.0,1.0
+Services,Indonesia,4,0.6,0.75,0.5143371794949736
+Services,Israel,1,0.2,1.0,1.0
+Services,Jordan,1,0.2,1.0,1.0
+Services,Kenya,7,0.8,0.5714285714285714,0.6608397947263839
+Services,Kosovo,1,0.2,1.0,1.0
+Services,Kyrgyzstan,1,0.2,1.0,0.6309297535714575
+Services,Lebanon,3,0.6,1.0,1.0
+Services,Liberia,1,0.2,1.0,1.0
+Services,Madagascar,2,0.4,1.0,1.0
+Services,Malawi,3,0.4,0.6666666666666666,0.7653606369886217
+Services,Mali,1,0.2,1.0,1.0
+Services,Mexico,3,0.4,0.6666666666666666,0.4776237035032179
+Services,Moldova,2,0.4,1.0,1.0
+Services,Mongolia,1,0.2,1.0,1.0
+Services,Mozambique,2,0.2,0.5,0.6131471927654584
+Services,Myanmar (Burma),1,0.2,1.0,1.0
+Services,Nepal,1,0.2,1.0,1.0
+Services,Nicaragua,4,0.8,1.0,0.9558295932317544
+Services,Nigeria,1,0.2,1.0,0.6309297535714575
+Services,Pakistan,3,0.6,1.0,1.0
+Services,Palestine,4,0.8,1.0,1.0
+Services,Paraguay,1,0.2,1.0,1.0
+Services,Peru,5,0.8,0.8,0.830419897363192
+Services,Philippines,8,1.0,0.625,1.0
+Services,Rwanda,3,0.6,1.0,0.9674679834891693
+Services,Samoa,1,0.2,1.0,1.0
+Services,Senegal,2,0.4,1.0,1.0
+Services,Sierra Leone,3,0.6,1.0,1.0
+Services,Solomon Islands,1,0.2,1.0,1.0
+Services,South Africa,1,0.2,1.0,0.6309297535714575
+Services,Suriname,1,0.2,1.0,1.0
+Services,Tajikistan,3,0.6,1.0,1.0
+Services,Tanzania,2,0.4,1.0,1.0
+Services,The Democratic Republic of the Congo,2,0.4,1.0,1.0
+Services,Timor-Leste,1,0.2,1.0,1.0
+Services,Togo,1,0.2,1.0,1.0
+Services,Turkey,1,0.2,1.0,1.0
+Services,Uganda,5,1.0,1.0,1.0
+Services,Ukraine,1,0.2,1.0,1.0
+Services,United States,2,0.4,1.0,1.0
+Services,Vietnam,3,0.6,1.0,0.7328286204777911
+Services,Yemen,1,0.2,1.0,1.0
+Services,Zambia,2,0.4,1.0,1.0
+Services,Zimbabwe,3,0.6,1.0,1.0
+Transportation,Albania,1,0.2,1.0,1.0
+Transportation,Armenia,2,0.4,1.0,1.0
+Transportation,Azerbaijan,2,0.4,1.0,1.0
+Transportation,Bolivia,4,0.8,1.0,1.0
+Transportation,Brazil,1,0.2,1.0,1.0
+Transportation,Burkina Faso,1,0.2,1.0,0.6309297535714575
+Transportation,Cambodia,5,0.8,0.8,0.830419897363192
+Transportation,Cameroon,1,0.2,1.0,0.6309297535714575
+Transportation,China,1,0.2,1.0,1.0
+Transportation,Colombia,2,0.4,1.0,1.0
+Transportation,Costa Rica,2,0.4,1.0,1.0
+Transportation,Ecuador,5,1.0,1.0,1.0
+Transportation,El Salvador,3,0.6,1.0,1.0
+Transportation,Georgia,1,0.2,1.0,1.0
+Transportation,Ghana,3,0.4,0.6666666666666666,0.6713860725233041
+Transportation,Guatemala,3,0.6,1.0,1.0
+Transportation,Haiti,1,0.2,1.0,0.6309297535714575
+Transportation,Honduras,2,0.4,1.0,1.0
+Transportation,India,4,0.8,1.0,1.0
+Transportation,Indonesia,1,0.2,1.0,0.38685280723454163
+Transportation,Israel,1,0.0,0.0,0.0
+Transportation,Jordan,1,0.2,1.0,1.0
+Transportation,Kenya,6,0.8,0.6666666666666666,0.6608397947263839
+Transportation,Kosovo,1,0.2,1.0,1.0
+Transportation,Kyrgyzstan,1,0.2,1.0,0.6309297535714575
+Transportation,Lebanon,3,0.6,1.0,1.0
+Transportation,Madagascar,2,0.4,1.0,1.0
+Transportation,Mali,1,0.2,1.0,1.0
+Transportation,Mexico,3,0.4,0.6666666666666666,0.4776237035032179
+Transportation,Moldova,2,0.4,1.0,1.0
+Transportation,Mongolia,1,0.2,1.0,1.0
+Transportation,Mozambique,1,0.2,1.0,1.0
+Transportation,Myanmar (Burma),1,0.2,1.0,1.0
+Transportation,Nepal,1,0.2,1.0,1.0
+Transportation,Nicaragua,4,0.8,1.0,0.9558295932317544
+Transportation,Pakistan,3,0.6,1.0,1.0
+Transportation,Palestine,4,0.8,1.0,1.0
+Transportation,Paraguay,1,0.2,1.0,1.0
+Transportation,Peru,5,0.8,0.8,0.830419897363192
+Transportation,Philippines,7,1.0,0.7142857142857143,1.0
+Transportation,Rwanda,2,0.4,1.0,1.0
+Transportation,Samoa,1,0.2,1.0,1.0
+Transportation,Senegal,2,0.4,1.0,1.0
+Transportation,Sierra Leone,2,0.4,1.0,1.0
+Transportation,Solomon Islands,1,0.2,1.0,1.0
+Transportation,South Africa,1,0.2,1.0,0.6309297535714575
+Transportation,Suriname,1,0.2,1.0,1.0
+Transportation,Tajikistan,3,0.6,1.0,1.0
+Transportation,Tanzania,2,0.4,1.0,1.0
+Transportation,The Democratic Republic of the Congo,1,0.2,1.0,0.6309297535714575
+Transportation,Timor-Leste,1,0.2,1.0,1.0
+Transportation,Togo,1,0.2,1.0,1.0
+Transportation,Uganda,3,0.6,1.0,0.9674679834891693
+Transportation,Ukraine,1,0.2,1.0,1.0
+Transportation,United States,2,0.4,1.0,1.0
+Transportation,Vietnam,2,0.4,1.0,0.5706417189553201
+Transportation,Yemen,1,0.2,1.0,1.0
+Transportation,Zimbabwe,3,0.6,1.0,1.0
+Wholesale,Albania,1,0.2,1.0,1.0
+Wholesale,Armenia,2,0.4,1.0,1.0
+Wholesale,Azerbaijan,2,0.4,1.0,1.0
+Wholesale,Bolivia,1,0.2,1.0,0.5
+Wholesale,Brazil,1,0.2,1.0,1.0
+Wholesale,Cambodia,3,0.4,0.6666666666666666,0.4776237035032179
+Wholesale,Cameroon,1,0.2,1.0,1.0
+Wholesale,Colombia,3,0.6,1.0,1.0
+Wholesale,Costa Rica,2,0.4,1.0,1.0
+Wholesale,Ecuador,3,0.6,1.0,0.9674679834891693
+Wholesale,Egypt,1,0.2,1.0,1.0
+Wholesale,El Salvador,2,0.4,1.0,0.9197207891481876
+Wholesale,Ghana,2,0.4,1.0,1.0
+Wholesale,Guatemala,1,0.2,1.0,0.6309297535714575
+Wholesale,Haiti,2,0.4,1.0,1.0
+Wholesale,Honduras,1,0.2,1.0,1.0
+Wholesale,India,3,0.6,1.0,0.7328286204777911
+Wholesale,Indonesia,1,0.2,1.0,0.38685280723454163
+Wholesale,Jordan,1,0.2,1.0,1.0
+Wholesale,Kenya,5,0.8,0.8,0.6608397947263839
+Wholesale,Kosovo,1,0.2,1.0,1.0
+Wholesale,Lebanon,2,0.4,1.0,1.0
+Wholesale,Liberia,1,0.2,1.0,1.0
+Wholesale,Madagascar,2,0.4,1.0,1.0
+Wholesale,Malawi,1,0.2,1.0,1.0
+Wholesale,Mexico,3,0.4,0.6666666666666666,0.4776237035032179
+Wholesale,Mongolia,1,0.2,1.0,1.0
+Wholesale,Mozambique,1,0.2,1.0,1.0
+Wholesale,Myanmar (Burma),1,0.2,1.0,1.0
+Wholesale,Nicaragua,3,0.6,1.0,0.9674679834891693
+Wholesale,Pakistan,2,0.4,1.0,0.9197207891481876
+Wholesale,Palestine,2,0.4,1.0,1.0
+Wholesale,Paraguay,1,0.2,1.0,1.0
+Wholesale,Peru,4,0.8,1.0,0.9558295932317544
+Wholesale,Philippines,7,1.0,0.7142857142857143,1.0
+Wholesale,Samoa,1,0.2,1.0,1.0
+Wholesale,Senegal,2,0.4,1.0,1.0
+Wholesale,Sierra Leone,2,0.4,1.0,0.9197207891481876
+Wholesale,Solomon Islands,1,0.2,1.0,1.0
+Wholesale,South Africa,1,0.2,1.0,0.6309297535714575
+Wholesale,Tajikistan,2,0.4,1.0,0.9197207891481876
+Wholesale,Tanzania,2,0.4,1.0,1.0
+Wholesale,The Democratic Republic of the Congo,2,0.4,1.0,1.0
+Wholesale,Togo,1,0.2,1.0,1.0
+Wholesale,Uganda,4,0.8,1.0,0.9558295932317544
+Wholesale,Ukraine,1,0.2,1.0,1.0
+Wholesale,United States,2,0.4,1.0,1.0
+Wholesale,Vietnam,2,0.4,1.0,0.6934264036172708
+Wholesale,Yemen,1,0.2,1.0,1.0
+Wholesale,Zambia,1,0.2,1.0,1.0
+Wholesale,Zimbabwe,2,0.4,1.0,0.9197207891481876
